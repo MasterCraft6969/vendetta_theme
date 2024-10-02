@@ -1,10 +1,10 @@
 {
-    "name": "Custom Theme",
+    "name": "Vendetta Teal v1.2.3",
     "description": "An Amoled theme based on Vendetta Teal color.",
   "authors": [
       {
-         "name": "Mastercraft_48",
-         "id": "466968658997149796"
+         "name": "Taki_Shiwa",
+         "id": "466968658997149706"
       }
     ],
     "semanticColors": {
@@ -403,4 +403,10 @@
         "iconpack":"rosiecord-plumpy"
    },
     "spec": 2,
+    "background": {
+        "blur": 0.6,
+        "url": "https://raw.githubusercontent.com/Wizzy-TV/VendettaThemes/main/PurpleMountains/bg.jpg",
+        "alpha": 0.5,
+        "color": "#000000"
+    }
             }
