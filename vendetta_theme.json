@@ -16,10 +16,6 @@
             "#00201f",
             "#00201f"
         ],
-        "CHAT_BACKGROUND": [
-            "url('https://github.com/MasterCraft6969/vendetta_theme/blob/main/cubism.jpg')",
-            "#000000"
-        ]
         "BACKGROUND_MENTIONED": [
             "#0038375a",
             "#0038375a"
@@ -407,4 +403,10 @@
         "iconpack":"rosiecord-plumpy"
     },
     "spec": 2
+    "background": {
+        "blur": 0.6,
+        "url": "https://raw.githubusercontent.com/Wizzy-TV/VendettaThemes/main/PurpleMountains/bg.jpg",
+        "alpha": 0.5,
+        "color": "#000000"
+    }
     }
