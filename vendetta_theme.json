@@ -404,9 +404,9 @@
    },
     "spec": 2,
     "background": {
-        "blur": 0.6,
+        "blur": 0.3,
         "url": "https://raw.githubusercontent.com/MasterCraft6969/vendetta_theme/refs/heads/main/cubism.jpg",
-        "alpha": 0.5,
+        "alpha": 1,
         "color": "#000000"
     }
             }
